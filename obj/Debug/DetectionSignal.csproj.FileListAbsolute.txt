@@ -1,0 +1,10 @@
+D:\Учеба\ИТ\DetectionSignal\bin\Debug\DetectionSignal.exe.config
+D:\Учеба\ИТ\DetectionSignal\bin\Debug\DetectionSignal.exe
+D:\Учеба\ИТ\DetectionSignal\bin\Debug\DetectionSignal.pdb
+D:\Учеба\ИТ\DetectionSignal\obj\Debug\DetectionSignal.csproj.AssemblyReference.cache
+D:\Учеба\ИТ\DetectionSignal\obj\Debug\DetectionSignal.Form1.resources
+D:\Учеба\ИТ\DetectionSignal\obj\Debug\DetectionSignal.Properties.Resources.resources
+D:\Учеба\ИТ\DetectionSignal\obj\Debug\DetectionSignal.csproj.GenerateResource.cache
+D:\Учеба\ИТ\DetectionSignal\obj\Debug\DetectionSignal.csproj.CoreCompileInputs.cache
+D:\Учеба\ИТ\DetectionSignal\obj\Debug\DetectionSignal.exe
+D:\Учеба\ИТ\DetectionSignal\obj\Debug\DetectionSignal.pdb
